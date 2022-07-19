@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath workspace_path="true">/ciaa_api</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0</includepath>
+<includepath workspace_path="true">/${ProjName}/inc</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc/config_43xx_m0app</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc/usbd_rom</includepath>
+<includepath workspace_path="true">/ciaa_api/inc</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath workspace_path="true">/ciaa_api</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc/config_43xx_m0app</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc/usbd_rom</includepath>
+<includepath workspace_path="true">/${ProjName}/inc</includepath>
+<includepath workspace_path="true">/ciaa_api/inc</includepath>
+
+</language>
+<language name="Additional Assembly Source Files">
+<includepath workspace_path="true">/ciaa_api</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc/config_43xx_m0app</includepath>
+<includepath workspace_path="true">/lpc_chip_43xx_m0/inc/usbd_rom</includepath>
+<includepath workspace_path="true">/${ProjName}/inc</includepath>
+<includepath workspace_path="true">/ciaa_api/inc</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C Source File">
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+<macro>
+<name>__CODE_RED</name><value/>
+</macro>
+<macro>
+<name>CORE_M0</name><value/>
+</macro>
+<macro>
+<name>__USE_LPCOPEN</name><value/>
+</macro>
+<macro>
+<name>__LPC43XX__</name><value/>
+</macro>
+<macro>
+<name>__REDLIB__</name><value/>
+</macro>
+<macro>
+<name>__MULTICORE_M0APP</name><value/>
+</macro>
+<macro>
+<name>CORE_M0APP</name><value/>
+</macro>
+<macro>
+<name>NO_BOARD_LIB</name><value/>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+<language name="Additional Assembly Source Files">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>
